@@ -1,0 +1,22 @@
+.intern-partner {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.intern-partner h2 {
+    color: #333;
+}
+.intern-partner h3 {
+    color: #555;
+}
+.intern-partner p {
+    line-height: 1.6;
+}
+.intern-partner ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
